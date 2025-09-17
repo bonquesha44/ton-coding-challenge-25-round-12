@@ -15,8 +15,8 @@ https://t.me/toneachat
 课件地址：https://ton-org.notion.site/TON-NFT-2-0-2655274bd2cf807291edda0280c42e59
 
 领奖信息收集：
-1. 你的 Telegram 用户名 = ？
-2. 你的主网 TON 钱包地址 = ？
+1. 你的 Telegram 用户名 = @SHANoneR
+2. 你的主网 TON 钱包地址 = UQB2ES32dG86uyOLSfkdOU9LAV653nYvywvRheHGHJVa1G93
 
 
 ## 任务：构思 NFT 版权方案
@@ -31,5 +31,7 @@ https://t.me/toneachat
 2. 你的方案有什么优势？
 3. 你的方案有什么取舍和不足？
 
-
+描述：NFT 版权纠纷交由去中心化仲裁组织裁定，链上执行裁决。
+优势：增加治理与公平性。
+不足：仲裁效率和公正性可能受限
 
